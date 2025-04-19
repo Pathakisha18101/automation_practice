@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Failed suite [Suite]]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="OpenCart Test(failed)(failed)">
+    <parameter name="browser" value="chrome"/>
+    <groups>
+      <run>
+        <include name="Master"/>
+        <exclude name=""/>
+      </run>
+    </groups>
+    <classes>
+      <class name="testCases.TC001AutomationTestCase">
+        <methods>
+          <include name="verifyAccountRegistration"/>
+        </methods>
+      </class> <!-- testCases.TC001AutomationTestCase -->
+      <class name="testCases.TC002LoginTest">
+        <methods>
+          <include name="verify_login"/>
+        </methods>
+      </class> <!-- testCases.TC002LoginTest -->
+    </classes>
+  </test> <!-- OpenCart Test(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Suite]] -->
