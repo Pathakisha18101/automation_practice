@@ -1,36 +1,24 @@
-2025-04-18 20:35:27 INFO  TC002LoginTest:17 - **** Starting TC_002_LoginTest  ****
-2025-04-18 20:35:27 INFO  TC002LoginTest:24 - clicked on myaccount link on the home page..
-2025-04-18 20:35:27 INFO  TC002LoginTest:26 - clicked on login link under myaccount..
-2025-04-18 20:35:27 INFO  TC002LoginTest:30 - Entering valid email and password..
-2025-04-18 20:35:28 INFO  TC002LoginTest:34 - clicked on login button..
-2025-04-18 20:35:28 INFO  TC002LoginTest:51 - **** Finished TC_002_LoginTest  ****
-2025-04-18 20:35:32 INFO  TC001AutomationTestCase:16 - ******** Starting TC001AutomationTestCase ********
-2025-04-18 20:35:32 INFO  TC001AutomationTestCase:20 - Clicked on MyAccount link
-2025-04-18 20:35:33 INFO  TC001AutomationTestCase:23 - Clicked on Register link
-2025-04-18 20:35:33 INFO  TC001AutomationTestCase:27 - Providing customer details...
-2025-04-18 20:35:35 INFO  TC001AutomationTestCase:39 - Validating confirmation message...
-2025-04-18 20:35:35 INFO  TC001AutomationTestCase:43 - ******** Finished TC001AutomationTestCase ********
-2025-04-18 20:54:58 INFO  TC002LoginTest:17 - **** Starting TC_002_LoginTest  ****
-2025-04-18 20:54:58 INFO  TC002LoginTest:24 - clicked on myaccount link on the home page..
-2025-04-18 20:54:58 INFO  TC002LoginTest:26 - clicked on login link under myaccount..
-2025-04-18 20:54:58 INFO  TC002LoginTest:30 - Entering valid email and password..
-2025-04-18 20:54:58 INFO  TC002LoginTest:34 - clicked on login button..
-2025-04-18 20:54:59 INFO  TC002LoginTest:51 - **** Finished TC_002_LoginTest  ****
-2025-04-18 20:55:03 INFO  TC001AutomationTestCase:16 - ******** Starting TC001AutomationTestCase ********
-2025-04-18 20:55:03 INFO  TC001AutomationTestCase:20 - Clicked on MyAccount link
-2025-04-18 20:55:04 INFO  TC001AutomationTestCase:23 - Clicked on Register link
-2025-04-18 20:55:04 INFO  TC001AutomationTestCase:27 - Providing customer details...
-2025-04-18 20:55:06 INFO  TC001AutomationTestCase:39 - Validating confirmation message...
-2025-04-18 20:55:06 INFO  TC001AutomationTestCase:43 - ******** Finished TC001AutomationTestCase ********
-2025-04-18 21:01:39 INFO  TC002LoginTest:17 - **** Starting TC_002_LoginTest  ****
-2025-04-18 21:01:39 INFO  TC002LoginTest:24 - clicked on myaccount link on the home page..
-2025-04-18 21:01:39 INFO  TC002LoginTest:26 - clicked on login link under myaccount..
-2025-04-18 21:01:39 INFO  TC002LoginTest:30 - Entering valid email and password..
-2025-04-18 21:01:40 INFO  TC002LoginTest:34 - clicked on login button..
-2025-04-18 21:01:41 INFO  TC002LoginTest:51 - **** Finished TC_002_LoginTest  ****
-2025-04-18 21:01:44 INFO  TC001AutomationTestCase:16 - ******** Starting TC001AutomationTestCase ********
-2025-04-18 21:01:44 INFO  TC001AutomationTestCase:20 - Clicked on MyAccount link
-2025-04-18 21:01:45 INFO  TC001AutomationTestCase:23 - Clicked on Register link
-2025-04-18 21:01:45 INFO  TC001AutomationTestCase:27 - Providing customer details...
-2025-04-18 21:01:46 INFO  TC001AutomationTestCase:39 - Validating confirmation message...
-2025-04-18 21:01:47 INFO  TC001AutomationTestCase:43 - ******** Finished TC001AutomationTestCase ********
+2025-04-19 12:01:55 INFO  TC002LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2025-04-19 12:01:55 INFO  TC002LoginTest:24 - clicked on myaccount link on the home page..
+2025-04-19 12:01:56 INFO  TC002LoginTest:26 - clicked on login link under myaccount..
+2025-04-19 12:01:56 INFO  TC002LoginTest:30 - Entering valid email and password..
+2025-04-19 12:01:56 INFO  TC002LoginTest:34 - clicked on login button..
+2025-04-19 12:01:57 INFO  TC002LoginTest:51 - **** Finished TC_002_LoginTest  ****
+2025-04-19 12:02:01 INFO  TC001AutomationTestCase:16 - ******** Starting TC001AutomationTestCase ********
+2025-04-19 12:02:01 INFO  TC001AutomationTestCase:20 - Clicked on MyAccount link
+2025-04-19 12:02:02 INFO  TC001AutomationTestCase:23 - Clicked on Register link
+2025-04-19 12:02:02 INFO  TC001AutomationTestCase:27 - Providing customer details...
+2025-04-19 12:02:03 INFO  TC001AutomationTestCase:39 - Validating confirmation message...
+2025-04-19 12:02:03 INFO  TC001AutomationTestCase:43 - ******** Finished TC001AutomationTestCase ********
+2025-04-19 12:10:08 INFO  TC002LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2025-04-19 12:10:08 INFO  TC002LoginTest:24 - clicked on myaccount link on the home page..
+2025-04-19 12:10:08 INFO  TC002LoginTest:26 - clicked on login link under myaccount..
+2025-04-19 12:10:08 INFO  TC002LoginTest:30 - Entering valid email and password..
+2025-04-19 12:10:10 INFO  TC002LoginTest:34 - clicked on login button..
+2025-04-19 12:10:10 INFO  TC002LoginTest:51 - **** Finished TC_002_LoginTest  ****
+2025-04-19 12:10:13 INFO  TC001AutomationTestCase:16 - ******** Starting TC001AutomationTestCase ********
+2025-04-19 12:10:13 INFO  TC001AutomationTestCase:20 - Clicked on MyAccount link
+2025-04-19 12:10:14 INFO  TC001AutomationTestCase:23 - Clicked on Register link
+2025-04-19 12:10:14 INFO  TC001AutomationTestCase:27 - Providing customer details...
+2025-04-19 12:10:15 INFO  TC001AutomationTestCase:39 - Validating confirmation message...
+2025-04-19 12:10:15 INFO  TC001AutomationTestCase:43 - ******** Finished TC001AutomationTestCase ********
